@@ -63,8 +63,8 @@ The application uses **Java features, control structures, arrays, and strings** 
 ---
 
 ## Sample Interaction  
+**Welcome to the Banking Application!** 
 
-```text
 ===== Banking Application =====
 1. Create a new account
 2. Deposit money
@@ -73,3 +73,20 @@ The application uses **Java features, control structures, arrays, and strings** 
 5. Update contact details
 6. Exit
 Enter your choice: 1
+
+1.Enter account holder name: John Doe
+2.Enter initial deposit amount: 1000.0
+3.Enter email address: john.doe@example.com
+4.Enter phone number: 1234567890
+5.Account created successfully with Account Number: 1001
+
+## Screenshots
+**Account Creation**
+<img width="323" height="378" alt="image" src="https://github.com/user-attachments/assets/019dd844-1284-4851-8d4d-d2236d9d0b4e" />
+
+<img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/e515fade-3e48-4028-a61b-a1714c5c692d" />
+
+##Author
+1.Name - Nikita Saharan
+2.Roll no. - 2401840008
+3.Course - B.Sc. (H) Data Science
