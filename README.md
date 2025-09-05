@@ -88,7 +88,7 @@ Enter your choice: 1
 
 <img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/e515fade-3e48-4028-a61b-a1714c5c692d" />
 
-##Author
+## Author
 - Name - Nikita Saharan
 - Roll no. - 2401840008
 - Course - B.Sc. (H) Data Science
