@@ -63,6 +63,7 @@ The application uses **Java features, control structures, arrays, and strings** 
 
 
 ## Sample Interaction  
+
 **Welcome to the Banking Application!** 
 
 ===== Banking Application =====
@@ -74,11 +75,11 @@ The application uses **Java features, control structures, arrays, and strings** 
 6. Exit
 Enter your choice: 1
 
-1.Enter account holder name: John Doe
-2.Enter initial deposit amount: 1000.0
-3.Enter email address: john.doe@example.com
-4.Enter phone number: 1234567890
-5.Account created successfully with Account Number: 1001
+- Enter account holder name: John Doe
+- Enter initial deposit amount: 1000.0
+- Enter email address: john.doe@example.com
+- Enter phone number: 1234567890
+- Account created successfully with Account Number: 1001
 
 ## Screenshots
 
