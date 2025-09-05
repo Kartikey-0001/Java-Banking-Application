@@ -5,7 +5,7 @@ Design and implement a **banking application** in Java that allows users to mana
 
 The application uses **Java features, control structures, arrays, and strings** to implement the solution.  
 
----
+
 
 ## Learning Outcomes  
 - Understand the basics of **Java programming**  
@@ -13,7 +13,7 @@ The application uses **Java features, control structures, arrays, and strings** 
 - Implement a **real-world application** in Java  
 - Learn to manage code effectively using **GitHub**  
 
----
+
 
 ## Project Instructions  
 
@@ -33,7 +33,7 @@ The application uses **Java features, control structures, arrays, and strings** 
 - `displayAccountDetails()` – Show account details  
 - `updateContactDetails(String email, String phoneNumber, String address)` – Update contact details  
 
----
+
 
 ### UserInterface Class  
 
@@ -50,7 +50,7 @@ The application uses **Java features, control structures, arrays, and strings** 
 - `updateContact()` – Update contact details  
 - `mainMenu()` – Display menu and handle user choices  
 
----
+
 
 ## Implementation Steps  
 1. Define the **Account** class with attributes and methods  
@@ -60,7 +60,7 @@ The application uses **Java features, control structures, arrays, and strings** 
 5. Use **arrays** to manage multiple accounts  
 6. Handle **strings** for account holder names and contact details  
 
----
+
 
 ## Sample Interaction  
 **Welcome to the Banking Application!** 
@@ -81,12 +81,14 @@ Enter your choice: 1
 5.Account created successfully with Account Number: 1001
 
 ## Screenshots
+
 **Account Creation**
+
 <img width="323" height="378" alt="image" src="https://github.com/user-attachments/assets/019dd844-1284-4851-8d4d-d2236d9d0b4e" />
 
 <img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/e515fade-3e48-4028-a61b-a1714c5c692d" />
 
 ##Author
-1.Name - Nikita Saharan
-2.Roll no. - 2401840008
-3.Course - B.Sc. (H) Data Science
+- Name - Nikita Saharan
+- Roll no. - 2401840008
+- Course - B.Sc. (H) Data Science
