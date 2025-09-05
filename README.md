@@ -53,12 +53,12 @@ The application uses **Java features, control structures, arrays, and strings** 
 
 
 ## Implementation Steps  
-1. Define the **Account** class with attributes and methods  
-2. Create the **UserInterface** class to manage accounts and interact with users  
-3. Implement methods for account creation, deposit, withdrawal, and displaying details  
-4. Use **control structures and loops** for menu navigation and input handling  
-5. Use **arrays** to manage multiple accounts  
-6. Handle **strings** for account holder names and contact details  
+- Define the **Account** class with attributes and methods
+- Create the **UserInterface** class to manage accounts and interact with users  
+- Implement methods for account creation, deposit, withdrawal, and displaying details  
+- Use **control structures and loops** for menu navigation and input handling  
+- Use **arrays** to manage multiple accounts  
+- Handle **strings** for account holder names and contact details  
 
 
 
@@ -84,11 +84,11 @@ Enter your choice: 1
 
 **Account Creation**
 
-<img width="323" height="378" alt="image" src="https://github.com/user-attachments/assets/019dd844-1284-4851-8d4d-d2236d9d0b4e" />
+- <img width="323" height="378" alt="image" src="https://github.com/user-attachments/assets/019dd844-1284-4851-8d4d-d2236d9d0b4e" />
 
-<img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/e515fade-3e48-4028-a61b-a1714c5c692d" />
+- <img width="348" height="352" alt="image" src="https://github.com/user-attachments/assets/e515fade-3e48-4028-a61b-a1714c5c692d" />
 
 ## Author
-- Name - Nikita Saharan
-- Roll no. - 2401840008
-- Course - B.Sc. (H) Data Science
+- Name - Kartikey
+- Roll no. - 2401720014
+- Course - B.Sc. (H) Computer Science
